@@ -1,4 +1,4 @@
-ris Data Poisoning Experiment (MLflow + MLOps)**
+Iris Data Poisoning Experiment (MLflow + MLOps)**
 
 This project demonstrates how **data poisoning** impacts machine learning model performance using the Iris dataset. Poisoning is simulated by injecting feature noise and flipping labels, and all experiment runs are logged using **MLflow** for easy comparison.
 
